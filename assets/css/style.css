@@ -82,11 +82,11 @@ html {
     font-size: 16px;
 }
 
-ol,
-ul {
+ol
+ {
     margin: 0;
     padding: 0;
-    list-style: none;
+   
 }
 
 a,
@@ -250,6 +250,7 @@ p {
 
 .bottom15 {
     margin-bottom: 15px;
+    color: #000;
 }
 
 .top15 {
@@ -274,6 +275,10 @@ p {
 
 .bottom30 {
     margin-bottom: 30px;
+}
+
+.bottom31 {
+    margin-bottom: 23px;
 }
 
 .top30 {
